@@ -1,5 +1,5 @@
 # AudioColabNotebook
-Colaboratoryで実行可能な音声処理ノートブックです
+Colaboratoryで実行可能なNotebookのメモです
 
 # GitHub上で表示できない場合
 GitHubはJupyterNotebookをサーバでレンダリングしてその結果を表示しているようですが、2018年7月ごろ？からうまく表示されないことがあるようです。
