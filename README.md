@@ -1,4 +1,4 @@
-# AudioColabNotebook
+# ColabNotebook
 Colaboratoryで実行可能なNotebookのメモです
 
 # GitHub上で表示できない場合
